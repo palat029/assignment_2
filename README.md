@@ -4,4 +4,4 @@ http://pucd2035-e-f15.github.io/class_notes/p5_lab.html?https://raw.githubuserco
 
 ## Flying Taco
 
-![output.png](output_2.png)
+![output.png](screengrab.png)
