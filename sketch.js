@@ -18,6 +18,7 @@ fill(211,162,116);
 	ellipse(25, 180, 500, 500);
 fill(35,31,32);
 	ellipse(150, 140, 50, 50);
+
 	var diameter = random(50, 50);
 	ellipse(100, 20, diameter, diameter);
 	ellipse(100, 20, diameter, diameter);
@@ -56,6 +57,14 @@ fill(35,31,32);
 			ellipse(480 - y,300, tortillatext, tortillatext);
 			ellipse(510 - y,310, tortillatext, tortillatext);
 			ellipse(530 - y,295, tortillatext, tortillatext);
+
+		// draw eye
+var Peye = random(0);
+			if (Peye < 0.1) {
+				fill(211, 162, 116);
+				ellipse(random(200, 140), random(200, 140), 50 ,50);
+			}
+
 
 
 
